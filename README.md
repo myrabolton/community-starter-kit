@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The benefits include a better understanding of the functionality of this learning lab.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Allows you to effectively navigate the GitHub community.
 
 ## Getting started
 
